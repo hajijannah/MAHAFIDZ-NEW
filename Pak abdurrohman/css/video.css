@@ -35,5 +35,9 @@
     max-width: 560px; /* Maksimum lebar video */
     margin: 0 auto; /* Pusatkan video di dalam div */
   }
+  a {
+    color: rgb(255, 255, 255);
+    text-decoration: none; /* Optional: Remove underline */
+}
   
   

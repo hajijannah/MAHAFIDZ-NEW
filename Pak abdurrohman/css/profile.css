@@ -42,3 +42,8 @@
   .bay {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5
   }
+
+  a {
+    color: rgb(255, 255, 255);
+    text-decoration: none; /* Optional: Remove underline */
+}
