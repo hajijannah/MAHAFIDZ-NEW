@@ -33,10 +33,9 @@ div.client img:hover{
     color: #FFFFFF; /* Ganti dengan warna teks yang sesuai */
   }
 
-  a {
-    color: rgb(255, 255, 255);
-    text-decoration: none; /* Optional: Remove underline */
-}
+  footer a {
+    color: white;
+  }
 
 .remove-bullet ul {
   list-style-type: none;
