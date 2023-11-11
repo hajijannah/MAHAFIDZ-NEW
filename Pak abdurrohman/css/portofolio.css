@@ -1,6 +1,7 @@
 * {
-    font-family:  'Montserrat, sans-serif';
-  }
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 .navbar {
     background: linear-gradient(45deg, #FF0000, #000000);
@@ -26,8 +27,13 @@
     color: #FFFFFF; /* Ganti dengan warna teks yang sesuai */
   }
 
-  a {
-    color: rgb(255, 255, 255);
-    text-decoration: none; /* Optional: Remove underline */
+  footer a {
+    color: white;
+  }
+
+.remove-bullet ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
   

@@ -1,6 +1,7 @@
 * {
-    font-family:  'Montserrat, sans-serif';
-  }
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 .red {
     background: #3D0000;
@@ -40,10 +41,15 @@
   }
 
   .bay {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   }
 
-  a {
-    color: rgb(255, 255, 255);
-    text-decoration: none; /* Optional: Remove underline */
+  footer a {
+    color: white;
+  }
+
+.remove-bullet ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }

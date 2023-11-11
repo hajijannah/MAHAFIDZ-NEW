@@ -1,6 +1,7 @@
 * {
-  font-family:  'Montserrat, sans-serif';
+  font-family: 'Montserrat', sans-serif;
 }
+
 
 /* Gaya latar belakang card */
 .card {
@@ -45,4 +46,9 @@
   a {
     color: rgb(255, 255, 255);
     text-decoration: none; /* Optional: Remove underline */
+}
+.remove-bullet ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
